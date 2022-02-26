@@ -74,6 +74,6 @@ SOFTWARE.
 
 KIPKEMOI EVIS RONO
 kipkemoi.rono@student.moringaschool.com
-kipkemoilvs@gmil.com
+kipkemoilvs@gmail.com
 
 [Go Back to the top](#portfolio)
